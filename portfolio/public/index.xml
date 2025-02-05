@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Akash&#39;s Portfolio</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Akash&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Feb 2025 18:12:02 -0500</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Feb 2025 18:27:34 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Wed, 05 Feb 2025 18:27:34 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;My email is &lt;a href=&#34;mailto:akashkaukuntla1224@gmail.com&#34;&gt;akashkaukuntla1224@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Wed, 05 Feb 2025 18:25:47 -0500</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;I have experience working in industry and research. I also have a Bachelors degree.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Wed, 05 Feb 2025 18:12:02 -0500</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;About Akash.&lt;/p&gt;</description>
     </item>
   </channel>
